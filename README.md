@@ -14,7 +14,7 @@ O patch ainda não esta completamente pronto, em breve tambem vai traduzir para 
 Para ativar ele é simples
 Extraia em qualquer lugar e abra o "BP-translate.exe" como Administrador.
 ele ficará com a janela esperando o Blue Protocol sera aberto.
-Abra o jogo normalmente e aproveite.
+Abra o jogo normalmente e aproveite.  
 **CASO TENHA PROBLEMA COM O PATCH, ABRA O "BPMASTERDATA.PFX" INSTALE APERTANDO "NEXT" DEPOIS DESATIVE O ANTIVIRUS ATE ABRIR O JOGO, DEPOIS PODE ATIVAR NOVAMENTE.**
 ![Screenshot_51](https://github.com/Kronyx/Blue-Protocol-Tradu-o-PT-BR/assets/13527331/04a6859d-587b-42fc-a41a-427d332b0fa8)
 
