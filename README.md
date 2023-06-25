@@ -21,7 +21,7 @@ Abra o jogo normalmente e aproveite.
 
 ![Screenshot_47](https://github.com/Kronyx/Blue-Protocol-Tradu-o-PT-BR/assets/13527331/205b57f4-4ab1-4ccd-aeaf-b9e3160fed01)
 
-Caso queira doar para ajudar o projeto  
+**Caso queira doar para ajudar o projeto**  
 
 Pix: 1cf68cb7-c2ad-4e0d-a34d-3712688dcb90
 
