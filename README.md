@@ -1,14 +1,14 @@
 
-** Blue-Protocol-Traduco-PT-BR**
+**Blue-Protocol-Traduco-PT-BR**
 
 Blue Protocol Tradução PT-BR foi feito apartir do English Patch feita pelo Skyproc, mas com algumas melhorias e correções que vão ajudar durante o jogo.
 Uma das melhorias é a inclusão de tradução de Quests, Itens, Monstros e Habilidades com o patch criado e desenvolvido pelo ArtFect.
 Esse patch provavelmente vai funcionar na versão Chinesa e Coreana do jogo que sairá ainda esté ano.
 
-Como instalar: Baixe o arquivo .Rar e xtraia o arquivo "dinput8.dll" na pasta "X:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64"
+Como instalar: Baixe o arquivo .Rar e xtraia o arquivo "dinput8.dll" na pasta "X:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64"  
 E a pasta "~mods" para a pasta "C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Content\Paks"
 
-**ArtFact Translator**
+**ArtFact Translator**  
 O patch ainda não esta completamente pronto, em breve tambem vai traduzir para portugues, mas atualmente é só ingles.
 Para ativar ele é simples
 Extraia em qualquer lugar e abra o "BP-translate.exe" como Administrador.
